@@ -23,7 +23,7 @@ Frontend Task
 
 Please explain what is single-page application and how it work. Give examples of tools used to make SPAs.
 
-*\<single-page application คือการแสดงผลหน้าเว็บไซต์ในรูปแบบต่างๆ ภายในหน้าเดียว โดยไม่จำเป็นต้อง Refresh page เมื่อมี Event ต่างๆ บนหน้าเว็บไซต์ เราสามารถทำ single-page application โดยใช้ AJAX มาช่วยได้การทำงานของ AJAX คือมันจะโหลดข้อมูลมาแสดงผลตามตำแหน่งที่เราต้องการโดยไม่ต้อง Refresh page >*
+*\<single-page application คือการแสดงผลหน้าเว็บไซต์ในรูปแบบต่างๆ ภายในหน้าเดียว โดยไม่จำเป็นต้อง Refresh page เมื่อมี Event ต่างๆ บนหน้าเว็บไซต์ เราสามารถทำ single-page application โดยใช้ AJAX มาช่วยได้ การทำงานของ AJAX คือมันจะโหลดข้อมูลมาแสดงผลตามตำแหน่งที่เราต้องการโดยไม่ต้อง Refresh page >*
 
 Backend Task
 ---
